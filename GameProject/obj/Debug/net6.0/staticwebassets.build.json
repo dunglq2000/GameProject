@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "K66BagvI18MzNL1KtZRAPy11d3iwOWtAxvYMXLOUrOA=",
+  "Source": "GameProject",
+  "BasePath": "_content/GameProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameProject\\wwwroot",
+      "Source": "GameProject",
+      "ContentRoot": "F:\\GameProject\\GameProject\\wwwroot\\",
+      "BasePath": "_content/GameProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
